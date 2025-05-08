@@ -1,5 +1,6 @@
 {
   "name": "dashboard",
+  "homepage": "https://carolwargo.github.io/dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
